@@ -1,3 +1,4 @@
 # Amazing Contributors 
 
+- vighnesh
 - EOF
