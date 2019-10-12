@@ -19,8 +19,8 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 
 ------
-### Akhil A - S2CSE
-<img src="https://drive.google.com/open?id=1KyWq6z2fUVIYvk2OPfwlE0TRzLRJkBF0" 
+### Akhil A - S1CSE
+<img src="https://drive.google.com/file/d/1KyWq6z2fUVIYvk2OPfwlE0TRzLRJkBF0/view?usp=drive_open" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 ------
 
