@@ -10,7 +10,7 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 ------
 
 ### Akash C Ramesh-S1IT
-<img src=https://images.pexels.com/photos/1110670/pexels-photo-1110670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"" 
+<img src="https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/72612650_966944103638657_7498475589817335808_o.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQkjmkz" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 
 
