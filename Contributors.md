@@ -26,11 +26,7 @@ height = "100"
 
 
 ### Mohammed Ajzal- S1 IT
-<Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s480x480/73413119_2563644700396788_3073925479774814208_n.jpg?_nc_cat=100&efg=eyJpIjoiYiJ9&_nc_oc=AQlqLPKANm1htwqyGpC8malHf8OjJj6-IpaMoM8MFQH4L3L6CE1Yc0Hv7F42GQfN9h0&_nc_ht=scontent.fmaa8-1.fna&oh=cb3385d7da0dd3f0cf101b21f8aca006&oe=5E3477E2"
-
-width = "100"
-height = "100"
-/>
+<Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s480x480/73413119_2563644700396788_3073925479774814208_n.jpg?_nc_cat=100&efg=eyJpIjoiYiJ9&_nc_oc=AQlqLPKANm1htwqyGpC8malHf8OjJj6-IpaMoM8MFQH4L3L6CE1Yc0Hv7F42GQfN9h0&_nc_ht=scontent.fmaa8-1.fna&oh=cb3385d7da0dd3f0cf101b21f8aca006&oe=5E3477E2"width = "100"height = "100"/>
 
 ---------
 ### vighnesh s - S5 CSE
