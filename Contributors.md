@@ -2,25 +2,14 @@
 # Amazing Contributors 
 
 - start [paste your code below this line]
-----------
-### illuminandi@k
 
-<Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/34344553_2075873066005341_7600920489791324160_n.jpg?_nc_cat=106&efg=eyJpIjoiYiJ9&_nc_oc=AQmAHN9m-joyUG77yk3ecgiRvGptew1yi-Aj8FaCnNy3W3p95sV597Kb0-Vdu6HLMJc&_nc_ht=scontent.fmaa8-1.fna&oh=468de00ec223feaab13c0682ea5df46a&oe=5E2C7360"
-width = "100"
-height = "100"
-/>
+
 ---------
-### jockey  - S1 IT
-
-
-
-### rockey  - S1 IT
-=======
 
 
 
 
-### patty kutty  - S1 IT
+### akash  - S1 IT
 
 
 <Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/46817194_763885257277877_3068183426327642112_o.jpg?_nc_cat=105&efg=eyJpIjoiYiJ9&_nc_oc=AQlfoFcxDgOPb5A6YtCX1C7uxC5_BIMaE-256AhCBxOxUn5DM4sXvtyGXlsnAgmNtgQ&_nc_ht=scontent.fmaa8-1.fna&oh=b3eeb098946dbbda39a3728396e71e66&oe=5E2EC1F8"
