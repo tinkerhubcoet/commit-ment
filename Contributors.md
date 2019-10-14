@@ -6,6 +6,12 @@
 
 ---------
 
+### Sarin M - S1 CSE
+<Img src= "https://scontent-maa2-2.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/48406769_2248174335468010_8453752629426651136_o.jpg?_nc_cat=106&efg=eyJpIjoidCJ9&_nc_oc=AQmXBoUVYrqlfFVYHHx7NC44mPqGaRNa7lKKBxlTj3KhK-Yy2IHF13zfNgXZDs5ticw&_nc_ht=scontent-maa2-2.xx&oh=ead2c66e2ecc51a6f8943bf7f58e717f&oe=5E253FB3"
+width = "100"
+height = "100"
+/>
+
 
 ### Prithvijith  - S1 IT
 
