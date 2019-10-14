@@ -40,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 --------
 
 ### Mohammed Ajzal - S1IT
-<img src="https://drive.google.com/open?id=1EMvKa87FFNgkS4CjBES56aBKZONk5kWm" 
+<img src="https://images.theconversation.com/files/139285/original/image-20160926-31837-1izljmn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 ------
 ### Abhijith C -S1 CSE
