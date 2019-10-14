@@ -43,7 +43,7 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 --------
 ### vybhav - S1IT
 
-<img src="https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/34344553_2075873066005341_7600920489791324160_n.jpg?_nc_cat=106&efg=eyJpIjoiYiJ9&_nc_oc=AQmAHN9m-joyUG77yk3ecgiRvGptew1yi-Aj8FaCnNy3W3p95sV597Kb0-Vdu6HLMJc&_nc_ht=scontent.fmaa8-1.fna&oh=468de00ec223feaab13c0682ea5df46a&oe=5E2C7360" 
+<img src="https://drive.google.com/file/d/1O12-nvDAm_Iz90E5hoHAsGOmSHQvs5gJ/view" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 
 --------
