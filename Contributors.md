@@ -43,7 +43,7 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 --------
 ### vybhav - S1IT
 
-<img src="https://drive.google.com/file/d/1O12-nvDAm_Iz90E5hoHAsGOmSHQvs5gJ/view" 
+<img src="https://mbasic.drive.google.com/file/d/1O12-nvDAm_Iz90E5hoHAsGOmSHQvs5gJ/view" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 
 --------
