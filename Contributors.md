@@ -40,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 --------
 
 ### Mohammed Ajzal - S1IT
-<img src="https://previews.dropbox.com/p/thumb/AAnBN-P39A1ngaiRROhpLFKNlXC20xxrcVs4kq7I6Y0idWBNhWiud_-xxTtXXe5nK3NS68xci4GyDF9gCbQxvMNPRYFOlsTeBr15KUOX2Duhhm3hPeuIHazGy3YFrXRs4yhJvs3jHmXq4JJqUjqlmEqvN7b9fUU695Sj4xjFLpRGlOlYoKW83Gq6y-QVj2F9db2Noe6QZlncsEYV0UcFVw_BjCUJxIAATlGag60ZouoJevV7erPcctQYUTHfppp996tW3mYWxljHICnKVfWBR6g3GpbzroNAYJn8jZ07FENXP6VtCT4dNUQmgY3P6jsKHr2ZO4CUjvONjrVIXjFIdxhWIsN4REwcVyn74BxijYpCs9MZZYnnnMKsoiqxQ5-_Ifc16-i4g1cdP8gqtL5KtRYq9jVU8oTRr6CF10oofFqiYg/p.jpeg?size=1600x1200&size_mode=3" 
+<img src="https://previews.dropbox.com/p/thumb/AAnBN-P39A1ngaiRROhpLFKNlXC20xxrcVs4kq7I6Y0idWBNhWiud_-xxTtXXe5nK3NS68xci4GyDF9gCbQxvMNPRYFOlsTeBr15KUOX2Duhhm3hPeuIHazGy3YFrXRs4yhJvs3jHmXq4JJqUjqlmEqvN7b9fUU695Sj4xjFLpRGlOlYoKW83Gq6y-QVj2F9db2Noe6QZlncsEYV0UcFVw_BjCUJxIAATlGag60ZouoJevV7erPcctQYUTHfppp996tW3mYWxljHICnKVfWBR6g3GpbzroNAYJn8jZ07FENXP6VtCT4dNUQmgY3P6jsKHr2ZO4CUjvONjrVIXjFIdxhWIsN4REwcVyn74BxijYpCs9MZZYnnnMKsoiqxQ5-_Ifc16-i4g1cdP8gqtL5KtRYq9jVU8oTRr6CF10oofFqiYg/p.jpeg" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" />
 ------
 ### Abhijith C -S1 CSE
