@@ -1,13 +1,7 @@
 
 # Amazing Contributors 
 
-- start
-
-
-
-
-
-
+- start[paste your details on the next line]
 - EOF
 
 
