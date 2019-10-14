@@ -3,12 +3,7 @@
 
 - start [paste your code below this line]
 
----------
-### Prithvijith  - S1 IT
-<Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/67134487_2454416001343431_1253198197715632128_n.jpg?_nc_cat=100&efg=eyJpIjoiYiJ9&_nc_oc=AQm5IBsT7REBrlEVFCj303jp4igKuxMY8YD_yvZEgPeqaRhJVak2wzERYGtHrp9Z_mg&_nc_ht=scontent.fmaa8-1.fna&oh=67a70d3433b2c9c1ce798ccc1d566ab2&oe=5E3744F8"
-width = "100"
-height = "100"
-/>
+
 
 ---------
 
@@ -27,6 +22,12 @@ height = "100"
 
 ### Mohammed Ajzal- S1 IT
 <Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s480x480/73413119_2563644700396788_3073925479774814208_n.jpg?_nc_cat=100&efg=eyJpIjoiYiJ9&_nc_oc=AQlqLPKANm1htwqyGpC8malHf8OjJj6-IpaMoM8MFQH4L3L6CE1Yc0Hv7F42GQfN9h0&_nc_ht=scontent.fmaa8-1.fna&oh=cb3385d7da0dd3f0cf101b21f8aca006&oe=5E3477E2"
+width = "100"
+height = "100"
+/>
+---------
+### Prithvijith  - S1 IT
+<Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/67134487_2454416001343431_1253198197715632128_n.jpg?_nc_cat=100&efg=eyJpIjoiYiJ9&_nc_oc=AQm5IBsT7REBrlEVFCj303jp4igKuxMY8YD_yvZEgPeqaRhJVak2wzERYGtHrp9Z_mg&_nc_ht=scontent.fmaa8-1.fna&oh=67a70d3433b2c9c1ce798ccc1d566ab2&oe=5E3744F8"
 width = "100"
 height = "100"
 />
