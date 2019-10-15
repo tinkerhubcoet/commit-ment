@@ -1,6 +1,6 @@
 
 
-# Amazing Contributors  - Commit-ment
+# Amazing Contributors  - Commit-ment [https://medium.com/tinkerhubcoet/]
 
 - start [paste your code below this line]
 ---------
