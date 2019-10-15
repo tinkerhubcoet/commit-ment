@@ -4,6 +4,12 @@
 
 - start [paste your code below this line]
 ----------
+### Chandler Muriel Bing
+<Img src= "https://data.whicdn.com/images/317996901/original.jpg"
+width = "150"
+height = "150"
+/>
+
 
 
 ### Monica Geller
@@ -11,6 +17,7 @@
 width = "100"
 height = "100"
 />
+
 
 -----------
 ### Thejus K- S1 IT
