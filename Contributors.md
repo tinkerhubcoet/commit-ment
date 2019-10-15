@@ -110,8 +110,9 @@ height="100"
 />
 ---------
 ### AKHIL PRASANTH S7 CS
-<img src="https://avatars2.githubusercontent.com/u/56426096?s=460&v=4 width = "100"
-height = "100"
+<img src="https://avatars2.githubusercontent.com/u/56426096?s=460&v=4"
+width="100"
+height="100"
 />
 -----------
 - EOF
