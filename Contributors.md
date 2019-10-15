@@ -4,7 +4,13 @@
 
 - start [paste your code below this line]
 ----------
+### Chandler Muriel Bing
+<Img src= "https://data.whicdn.com/images/317996901/original.jpg"
+width = "150"
+height = "150"
+/>
 
+-----------
 ### Thejus K- S1 IT
 <Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/67946526_460708921429170_5330964208668377088_o.jpg?_nc_cat=104&efg=eyJpIjoidCJ9&_nc_oc=AQnJHHI7oiaYqCu-sGse5FEpVTUn1pFAES6fUm9ifDfNMWIVYRPZ9YwG8m9mBkHnNxU&_nc_ht=scontent.fcok3-1.fna&oh=44589ce73227084f58663012ba1477bb&oe=5E61FF77"
 width = "100"
