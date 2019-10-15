@@ -9,37 +9,8 @@
 <Img src ="https://avatars1.githubusercontent.com/SHAHBASPP" width = “100” height = “100”/>
 ----------
 
-### Elliot Alderson (Network security engineer)
-<img src = "https://vignette.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest?cb=20150810201239" width="350" height="300"/>
 
-----------
-
-### Monica Hall (Chief Financial Officer)
-<img src = "https://vignette.wikia.nocookie.net/silicon-valley/images/6/69/Silicon-Valley-Wikia_infobox-Monica_01.jpg/revision/latest?cb=20160913215924" width="350" height="300"/>
-----------
-
-### Erlich Bachman (Literally, no one)
-<img src = "https://vignette.wikia.nocookie.net/silicon-valley/images/b/bb/Binding_Arbitration_Image_4.jpg/revision/latest?cb=20151228222226" width="350" height="300"/>
-----------
-
-### Bertram Gilfoyle (System Architect)
-<img src = "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s3/gilfoyle-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg" width="350" height="300"/>
-
-----------
-
-### Jared Dunn alias Donald
-<img src = "https://i.ytimg.com/vi/kV4OUmpjBmo/maxresdefault.jpg" width="350" height="300"/>
-----------
-
-### Dinesh Chugtai
-<img src = "https://pbs.twimg.com/media/DcoJwW-UQAAeS2j.jpg" width="350" height="300"/>
-
-----------
-
-### BIG HEAD alias Nelson Bighetti
-<img src = "https://static.businessinsider.com/image/57bdec35db5ce91d008b8a1b-/image.jpg" width="350" height="300"/>
-
-----------
+--
 
 ### AMAL PRAKASH P K 
 <img src = "https://qph.fs.quoracdn.net/main-raw-331441094-ldlkmqaqivxvkihztkpqeumwswonukiz.jpeg" width="100" height="100"/>
@@ -47,41 +18,6 @@
 ----------
 
 
-### Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas
-<img src = "https://vignette.wikia.nocookie.net/redditxi/images/8/82/Steve_ok.png/revision/latest?cb=20170424191141" width="100" height="100"/>
-
-----------
-
-
-### Rachel Green
-<Img src= "https://pbs.twimg.com/media/Bwnz_KqIIAAUCC1.jpg" width = "100" height = "100" />
-
-
-----------
-
-### Joey Tribbiani
-<Img src= "http://images5.fanpop.com/image/photos/31400000/Joey-Tribbiani-joey-tribbiani-31435103-720-540.jpg" width = "100" height = "100" />
-
------------
-
-
-### Chandler Muriel Bing
-<Img src= "https://data.whicdn.com/images/317996901/original.jpg"
-width = "150"
-height = "150"
-/>
-
-
-------------
-
-### Phoebe Buffay
-<Img src= "https://i.pinimg.com/736x/88/5a/e4/885ae4eeed84883ae81f102d69fb12f8.jpg" width = "100" height  = "100" />
-
- ----------
- 
-### Monica Geller
-
-<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height = "100" />
 
 
 
