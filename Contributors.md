@@ -4,7 +4,9 @@
 
 - start [paste your code below this line]
 
-=======
+### Elliot Alderson (Network security engineer)
+<img src = "https://vignette.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest?cb=20150810201239" width="350" height="300"/>
+
 ----------
 
 ### Monica Hall (Chief Financial Officer)
