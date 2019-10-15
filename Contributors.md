@@ -4,6 +4,10 @@
 
 - start [paste your code below this line]
 ----------
+### Rachel Green
+<Img src= "https://pbs.twimg.com/media/Bwnz_KqIIAAUCC1.jpg" width = "100" height = "100" />
+
+----------
 
 ### Joey Tribbiani
 <Img src= "http://images5.fanpop.com/image/photos/31400000/Joey-Tribbiani-joey-tribbiani-31435103-720-540.jpg" width = "100" height = "100" />
