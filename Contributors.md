@@ -1,5 +1,5 @@
 
-# Amazing Contributors 
+# Amazing Contributors - Commit-ment
 
 - start[paste your details on the next line]
 ### Prithvijith S1 IT
