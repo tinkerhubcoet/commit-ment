@@ -6,12 +6,12 @@
 ----------
 
 
-### Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas
-<img src = "https://vignette.wikia.nocookie.net/redditxi/images/8/82/Steve_ok.png/revision/latest?cb=20170424191141" width="100" height="100"/>
+### Elliot Alderson
+<img src = "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/08/mrrobot-920x584.jpg" width="100" height="100"/>
 
 ----------
 
-=======
+
 
 
 ### AMAL PRAKASH P K 
