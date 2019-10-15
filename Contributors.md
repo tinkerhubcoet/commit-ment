@@ -4,6 +4,24 @@
 
 - start [paste your code below this line]
 ----------
+
+
+### AMAL PRAKASH P K 
+<img src = "https://qph.fs.quoracdn.net/main-raw-331441094-ldlkmqaqivxvkihztkpqeumwswonukiz.jpeg" width="100" height="100"/>
+
+----------
+
+### Rachel Green
+<Img src= "https://pbs.twimg.com/media/Bwnz_KqIIAAUCC1.jpg" width = "100" height = "100" />
+
+----------
+
+### Joey Tribbiani
+<Img src= "http://images5.fanpop.com/image/photos/31400000/Joey-Tribbiani-joey-tribbiani-31435103-720-540.jpg" width = "100" height = "100" />
+
+-----------
+
+
 ### Chandler Muriel Bing
 <Img src= "https://data.whicdn.com/images/317996901/original.jpg"
 width = "150"
@@ -19,7 +37,15 @@ height = "150"
  ----------
  
 ### Monica Geller
+
 <Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height = "100" />
+=======
+
+<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height="100"/>
+
+
+
+<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height="100"/>
 
 
 
@@ -130,7 +156,12 @@ height = "100"
 width="100"
 height="100"
 />
+
 ---------
+
+
+-----------
+
 - EOF
 
 
