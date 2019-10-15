@@ -33,11 +33,15 @@ height = "150"
 <Img src= "https://i.pinimg.com/736x/88/5a/e4/885ae4eeed84883ae81f102d69fb12f8.jpg"
 
 ### Monica Geller
+
 <Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg"
 
 width = "100"
 height = "100"
 />
+
+<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height="100"/>
+
 
 
 -----------
@@ -153,12 +157,7 @@ height = "100"
 width="100"
 height="100"
 />
----------
-### AKHIL PRASANTH -S7 CS
-<img src="https://avatars2.githubusercontent.com/u/56426096?s=400&u=5ddb76dd8e4b451a58f347029eb916c7c251e12f&v=4"
-width="100"
-height="100"
-/>
+
 -----------
 - EOF
 
