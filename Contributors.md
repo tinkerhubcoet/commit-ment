@@ -5,6 +5,11 @@
 - start [paste your code below this line]
 ---------
  
+### Shidin A- S7  IT
+<Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/68705811_2239489832839816_3341663957071953920_o.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQnuBQH8qL8MT6g9PNZItNO7ru9IV9fqWBybbLifTgcE5gAX1N5DCE-zNoG_rN7hAO0&_nc_ht=scontent.fccj2-1.fna&tp=1&oh=14cd8ff3b45ba0d18daee607646f8325&oe=5E1C72E6"
+width = "100"
+height = "100"
+/> 
 ### Sana Dilshad- S1  IT
 <Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s320x320/73460704_510547209733741_6187585656215044096_n.jpg?_nc_cat=106&efg=eyJpIjoiYiJ9&_nc_oc=AQkdW-filGh3bwQZjN1_5sRuocWBXFpR2v5FBbTEMYPliRNVANDVhz9-sCkIaiZHS1Y&_nc_ht=scontent.fmaa8-1.fna&oh=cadec36442530a1d6bb231b73ecb3ed1&oe=5E1C770F"
 width = "100"
