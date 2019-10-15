@@ -4,8 +4,34 @@
 
 - start [paste your code below this line]
 ----------
+
 ### Joey Tribbiani
 <Img src= "http://images5.fanpop.com/image/photos/31400000/Joey-Tribbiani-joey-tribbiani-31435103-720-540.jpg" width = "100" height = "100" />
+
+-----------
+
+### Chandler Muriel Bing
+<Img src= "https://data.whicdn.com/images/317996901/original.jpg"
+width = "150"
+height = "150"
+/>
+
+
+
+
+### Phoebe Buffay
+<Img src= "https://i.pinimg.com/736x/88/5a/e4/885ae4eeed84883ae81f102d69fb12f8.jpg"
+
+### Monica Geller
+<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg"
+
+width = "100"
+height = "100"
+/>
+
+
+-----------
+
 
 -----------
 
