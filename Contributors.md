@@ -12,6 +12,11 @@
 <img src = "https://vignette.wikia.nocookie.net/silicon-valley/images/b/bb/Binding_Arbitration_Image_4.jpg/revision/latest?cb=20151228222226" width="350" height="300"/>
 ----------
 
+### Bertram Gilfoyle
+<img src = "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s3/gilfoyle-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg" width="350" height="300"/>
+
+----------
+
 ### Dinesh Chugtai
 <img src = "https://pbs.twimg.com/media/DcoJwW-UQAAeS2j.jpg" width="350" height="300"/>
 
