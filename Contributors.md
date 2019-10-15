@@ -38,11 +38,8 @@ height = "150"
 <Img src= "https://i.pinimg.com/736x/88/5a/e4/885ae4eeed84883ae81f102d69fb12f8.jpg" width = "100" height="100"/>
 
 ### Monica Geller
-<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg"
-width = "100"
+<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height="100"/>
 
-height = "100"
-/>
 
 
 -----------
