@@ -4,22 +4,6 @@
 
 - start [paste your code below this line]
 ----------
-
-### AMAL PRAKASH P K 
-<img src = "https://qph.fs.quoracdn.net/main-raw-331441094-ldlkmqaqivxvkihztkpqeumwswonukiz.jpeg" width="100" height="100"/>
-
-----------
-=======
-### Rachel Green
-<Img src= "https://pbs.twimg.com/media/Bwnz_KqIIAAUCC1.jpg" width = "100" height = "100" />
-
-----------
-
-### Joey Tribbiani
-<Img src= "http://images5.fanpop.com/image/photos/31400000/Joey-Tribbiani-joey-tribbiani-31435103-720-540.jpg" width = "100" height = "100" />
-
------------
-
 ### Chandler Muriel Bing
 <Img src= "https://data.whicdn.com/images/317996901/original.jpg"
 width = "150"
@@ -27,28 +11,21 @@ height = "150"
 />
 
 
-
+------------
 
 ### Phoebe Buffay
-<Img src= "https://i.pinimg.com/736x/88/5a/e4/885ae4eeed84883ae81f102d69fb12f8.jpg"
+<Img src= "https://i.pinimg.com/736x/88/5a/e4/885ae4eeed84883ae81f102d69fb12f8.jpg" width = "100" height  = "100" />
 
+ ----------
+ 
 ### Monica Geller
-<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg"
-
-width = "100"
-height = "100"
-/>
+<Img src= "https://i.pinimg.com/originals/6f/b2/e6/6fb2e6d9a964debd3709365ce99f908c.jpg" width = "100" height = "100" />
 
 
------------
+
 
 
 -----------
-
-
-### Ross Geller
-<img src= "http://images.hellogiggles.com/uploads/2016/03/25094608/RossDur_Featured.jpg" width = "100" height = "100"/>
-
 
 ### Thejus K- S1 IT
 <Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/67946526_460708921429170_5330964208668377088_o.jpg?_nc_cat=104&efg=eyJpIjoidCJ9&_nc_oc=AQnJHHI7oiaYqCu-sGse5FEpVTUn1pFAES6fUm9ifDfNMWIVYRPZ9YwG8m9mBkHnNxU&_nc_ht=scontent.fcok3-1.fna&oh=44589ce73227084f58663012ba1477bb&oe=5E61FF77"
@@ -154,12 +131,6 @@ width="100"
 height="100"
 />
 ---------
-### AKHIL PRASANTH -S7 CS
-<img src="https://avatars2.githubusercontent.com/u/56426096?s=400&u=5ddb76dd8e4b451a58f347029eb916c7c251e12f&v=4"
-width="100"
-height="100"
-/>
------------
 - EOF
 
 
