@@ -109,7 +109,7 @@ width="100"
 height="100"
 />
 ---------
-### AKHIL PRASANTH S7 CS
+### AKHIL PRASANTH -S7 CS
 <img src="https://avatars2.githubusercontent.com/u/56426096?s=400&u=5ddb76dd8e4b451a58f347029eb916c7c251e12f&v=4"
 width="100"
 height="100"
