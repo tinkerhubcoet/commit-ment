@@ -3,6 +3,14 @@
 # Amazing Contributors  - Commit-ment [https://medium.com/tinkerhubcoet/]
 
 - start [paste your code below this line]
+----------
+
+### Thejus K- S1 IT
+<Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/67946526_460708921429170_5330964208668377088_o.jpg?_nc_cat=104&efg=eyJpIjoidCJ9&_nc_oc=AQnJHHI7oiaYqCu-sGse5FEpVTUn1pFAES6fUm9ifDfNMWIVYRPZ9YwG8m9mBkHnNxU&_nc_ht=scontent.fcok3-1.fna&oh=44589ce73227084f58663012ba1477bb&oe=5E61FF77"
+width = "100"
+height = "100"
+/>
+
 -----------
 ### Mohamed Raihan N V- S5 CSE
 <Img src= "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/cp0/e15/q65/p960x960/72915928_2378472915707229_6142750372353015808_o.jpg?_nc_cat=101&efg=eyJpIjoiYiJ9&_nc_oc=AQnjQqNFCRbo4VwaIEw3nuqXsTozHKNnLZ7khU0pc9y3kf0RKYdMr1bcjPXQRafJpSk&_nc_ht=scontent-sin2-2.xx&oh=13a702f05f06b67cd9aad813efa087d7&oe=5E217CF1"
