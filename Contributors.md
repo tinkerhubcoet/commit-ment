@@ -4,7 +4,12 @@
 
 - start [paste your code below this line]
 
-----------
+------------
+
+### AMAL PRAKASH PK - S7 CS
+<img src= "https://avatars2.githubusercontent.com/u/41202556?s=400&u=d136c5e8d89272af10f8828f5100354f02e5b1ca&v=4" width="100" height="100"/>
+
+-------------
 
 ### Shidin A- S7 IT
 <Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/69664181_2262909940497805_8129919826249383936_o.jpg?_nc_cat=110&efg=eyJpIjoiYiJ9&_nc_oc=AQnQgQk2XzYcP4mT-YyeFR9heru0KqIpv65E7rjgyR_SGlQlLmFT5rZhah68HBeCMmk&_nc_ht=scontent.fccj2-1.fna&tp=1&oh=dfe8d44161e25f6c2173b9140a31b445&oe=5E1994F3"
