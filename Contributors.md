@@ -3,18 +3,7 @@
 # Amazing Contributors  - Commit-ment [https://medium.com/tinkerhubcoet/]
 
 - start [paste your code below this line]
-
 — — — — -
-### Amanyujith Raj- S1 CSE
-
-------
-### Vishnu k- S1 CSE
-
-<Img src= "https://scontent-del1-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/48406769_2248174335468010_8453752629426651136_o.jpg?_nc_cat=106&efg=eyJpIjoidCJ9&_nc_oc=AQmCuGJxgfiHDrXB0CQEk2iLE_x5RiQB68LV5eZ08AvRhJmSNrYLsniretJH3aLmhnQ&_nc_ht=scontent-del1-1.xx&oh=04c4cc138846653c98e1b94a0d13de9f&oe=5E253FB3"
-width = "100"
-height = "100"
-/>
----------
 ### vighnesh s - S5 CSE
 <Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p370x247/56173238_2136785283072198_7014739208589803520_n.jpg?_nc_cat=104&efg=eyJpIjoiYiJ9&_nc_oc=AQlmdAbumfCjo7DqrD4DXzNHplcUrMkD2jbDRyt3_hIOGDaeam1josJ8eVgJhMwYCCA&_nc_ht=scontent.fmaa8-1.fna&oh=d1a449630aa84149d70fdc90471344a3&oe=5E38E1E1"
 width = "100"
@@ -50,6 +39,7 @@ height = "100"
 
 
 
+
 -----------
 
 ### Thejus K- S1 IT
@@ -57,7 +47,6 @@ height = "100"
 width = "100"
 height = "100"
 />
-
 -----------
 ### Mohamed Raihan N V- S5 CSE
 <Img src= "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/cp0/e15/q65/p960x960/72915928_2378472915707229_6142750372353015808_o.jpg?_nc_cat=101&efg=eyJpIjoiYiJ9&_nc_oc=AQnjQqNFCRbo4VwaIEw3nuqXsTozHKNnLZ7khU0pc9y3kf0RKYdMr1bcjPXQRafJpSk&_nc_ht=scontent-sin2-2.xx&oh=13a702f05f06b67cd9aad813efa087d7&oe=5E217CF1"
@@ -165,6 +154,13 @@ height="100"
 
 
 -----------
+
+### Sangeerth S Nambiar- S1 CS
+<Img src= "https://m.facebook.com/photo/view_full_size/?fbid=1499288336873577&ref_component=mbasic_photo_permalink&ref_page=%2Fwap%2Fphoto.php&refid=13&__tn__=%2Cg"
+width = "100"
+height = "100"
+/>
+----------
 
 - EOF
 
