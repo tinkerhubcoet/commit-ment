@@ -1,6 +1,7 @@
 
 
 # Amazing Contributors  - Commit-ment [https://medium.com/tinkerhubcoet/]
+<img src = "./youtube tutorial.png"/> : scan this to see the video tutorial
 
 - start [paste your code below this line]
 
