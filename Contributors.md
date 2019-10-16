@@ -149,7 +149,7 @@ height = "100"
 
 
 ### Sangeerth S Nambiar S1 CS
-<img src="https://drive.google.com/file/d/1-36nuW1guKHDcPFAikeGDssJY8FKvm9f/view?usp=drivesdk"
+<img src="https://scontent.fdel13-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/62420637_1499288340206910_8260580926191304704_o.jpg?_nc_cat=101&efg=eyJpIjoiYiJ9&_nc_oc=AQlV6_5_DM72xj6rU-aA-VFzIxh-t3XDTibz9ZWISFHphhgwwG1PffKOr1BVl4YosYdb6P1GquDMRdVowr4IW3Pl&_nc_ht=scontent.fdel13-1.fna&oh=a5682b460bc11bdd9866b28daf30fc1a&oe=5E34BDCD"
 width="100"
 height="100"
 />
