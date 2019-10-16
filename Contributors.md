@@ -6,7 +6,7 @@
 - start [paste your code below this line]
 --------
 ### Abhijith C - S1 CS
-<Img src= "https://m.facebook.com/photo.php?fbid=2204278819889295&id=100009215942937&set=a.1377899489193903&source=11" 
+<Img src= "https://mbasic.facebook.com/photo.php?fbid=2204278819889295&id=100009215942937&set=a.1377899489193903&source=11" 
 width = "100"
 height = "100"
 />
@@ -14,32 +14,16 @@ height = "100"
 
 — — — — 
 ### SHAHBAS P P-S5 CSE
-<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
-
+<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP”
 width = "100"
 height = "100"
 />
 — — — — 
 ### Amanyujith Raj -S1 CSE
-<Img src= “https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66” width = “100” height = “100”/>
+<Img src= “https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66”
 width = "100"
 height = "100"
 />
-
-
-width = "100"
-height = "100"
-/>
------------
-## Amanyujith Raj - S1 CSE
-<Img src= "https://scontent-del1-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/48406769_2248174335468010_8453752629426651136_o.jpg?_nc_cat=106&efg=eyJpIjoidCJ9&_nc_oc=AQmCuGJxgfiHDrXB0CQEk2iLE_x5RiQB68LV5eZ08AvRhJmSNrYLsniretJH3aLmhnQ&_nc_ht=scontent-del1-1.xx&oh=04c4cc138846653c98e1b94a0d13de9f&oe=5E253FB3"
-width = "100"
-height = "100"
-/>
----------
-
-
-
 
 
 -----------
