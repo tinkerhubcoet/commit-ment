@@ -8,8 +8,8 @@
 
 ### Fathimath Amrena- S1 IT
 <Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s480x480/72964312_511213609667101_3763670306657402880_n.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQnO_SpzBubXHZeBIGJcj8IAM3cXad-KtmXmO0vc92nBaI8hGBXiyFe7cjdcUg1o1m9rAvXFU5o8OAcBWglY6Mtj&_nc_ht=scontent.fcok3-1.fna&oh=da8a71061a91beabc30a94b0f8c412ab&oe=5E62F4B1"
-width = "150"
-height = "150"
+width = "50"
+height = "100"
 />
 
 ### Amanyujith Raj- S1 CSE
