@@ -8,9 +8,18 @@
 — — — — 
 ### SHAHBAS P P-S5 CSE
 <Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
-
+width = "100"
+height = "100"
+/>
 -----------
+## Amanyujith Raj - S1 CSE
+<Img src= "https://scontent-del1-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/48406769_2248174335468010_8453752629426651136_o.jpg?_nc_cat=106&efg=eyJpIjoidCJ9&_nc_oc=AQmCuGJxgfiHDrXB0CQEk2iLE_x5RiQB68LV5eZ08AvRhJmSNrYLsniretJH3aLmhnQ&_nc_ht=scontent-del1-1.xx&oh=04c4cc138846653c98e1b94a0d13de9f&oe=5E253FB3"
+width = "100"
+height = "100"
+/>
+---------
 
+---------
 
 ### Fathimath Amrena- S1 IT
 <Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s480x480/72964312_511213609667101_3763670306657402880_n.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQnO_SpzBubXHZeBIGJcj8IAM3cXad-KtmXmO0vc92nBaI8hGBXiyFe7cjdcUg1o1m9rAvXFU5o8OAcBWglY6Mtj&_nc_ht=scontent.fcok3-1.fna&oh=da8a71061a91beabc30a94b0f8c412ab&oe=5E62F4B1"
@@ -18,12 +27,11 @@ width = "80"
 height = "100"
 />
 
-### Amanyujith Raj- S1 CSE
 
 
 ------
 
-### Vishnu k- S1 CSE
+
 
 
 ---------
