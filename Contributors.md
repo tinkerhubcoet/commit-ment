@@ -18,44 +18,13 @@ height = "100"
 
 
 ------
-### The good Old Coding Club devs
-<Img src= "https://miro.medium.com/max/700/1*bdNiIlobzliE0DaHgaxlPQ.jpeg"
-width = "500"
-height = "500"
-/>
 
-------
 ### Vishnu k- S1 CSE
 
 
 ---------
 
-### vighnesh s - S5 CSE
-<Img src= "https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p370x247/56173238_2136785283072198_7014739208589803520_n.jpg?_nc_cat=104&efg=eyJpIjoiYiJ9&_nc_oc=AQlmdAbumfCjo7DqrD4DXzNHplcUrMkD2jbDRyt3_hIOGDaeam1josJ8eVgJhMwYCCA&_nc_ht=scontent.fmaa8-1.fna&oh=d1a449630aa84149d70fdc90471344a3&oe=5E38E1E1"
-width = "100"
-height = "100"
-/>
 
-— — — — -
-### Muhammad Fasal M B T - S7IT
-<Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/70387250_2385214795068184_5248122458556334080_n.jpg?_nc_cat=107&efg=eyJpIjoiYiJ9&_nc_oc=AQmRRgz_L13rFnt9u93BWhWMpuOPF_BpZwnt6ZuRS8TrcB1mvHjraIN8RhZGjuBWLcfZOQNe8uib1av_36IH_53r&_nc_ht=scontent.fcok1-1.fna&oh=84b2dc5e5c88c2a19073a35f48a68b67&oe=5E200104"
-width = "100"
-height = "100"
-/>
-
-----------
-
-### SHAHBAS P P - S5 CSE
-<Img src="https://avatars1.githubusercontent.com/SHAHBASPP" width = “100” height = “100”/>
-----------
-
-
---
-
-### AMAL PRAKASH P K 
-<img src = "https://qph.fs.quoracdn.net/main-raw-331441094-ldlkmqaqivxvkihztkpqeumwswonukiz.jpeg" width="100" height="100"/>
-
-----------
 
 
 
