@@ -6,15 +6,15 @@
 ###  KINDLY FEATURE YOURSELF BY PR "ONLY ONCE". No duplicate featurings shall be appreciated.
 
 - start [paste your code below this line]
+- - - - -
+### Goutham Pankan Sudhir - S3CSE
+<Img src= "https://avatars0.githubusercontent.com/u/44921972?s=400&v=4" width = "100" height = "100"/>
+
+
 --------
 ### Abhijith C - S1 CS
-<Img src= "https://m.facebook.com/photo.php?fbid=2204278819889295&id=100009215942937&set=a.1377899489193903&source=11" 
-width = "100"
-height = "100"
-/>
 
-
-— — — — 
+-----
 ### SHAHBAS P P-S5 CSE
 <Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
 
@@ -24,6 +24,12 @@ height = "100"
 
 -----------
 
+### Amanyujith Raj -S1 CSE
+<Img src= "https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66"
+width = "80"
+height = "100"
+/>
+-----------
 ### Abhinav sirosh- S1 CSE
 <Img src= "https://www.instagram.com/p/BrPvwWTgfuz/?igshid=15xp4gctiqca2"
 width = "80"
@@ -145,6 +151,15 @@ height = "100"
 -----------
 
 
+### Sangeerth S Nambiar S1 CS
+<img src="https://drive.google.com/file/d/1-36nuW1guKHDcPFAikeGDssJY8FKvm9f/view?usp=drivesdk"
+width="100"
+height="100"
+/>
+  
+
+
+
 
 ### Prithvijith S1 IT
 <img src="https://scontent.fcok2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/67134487_2454416001343431_1253198197715632128_n.jpg?_nc_cat=100&efg=eyJpIjoiYiJ9&_nc_oc=AQkjC1bAkISjiKDMyypAcqnIDtBw6NJXzRp_16fT6AadIurhICrf33nZCfEmEKEnKP6jVf9JS0LVz-_e1HG2x3FN&_nc_ht=scontent.fcok2-1.fna&oh=7a318270a06ac91d0ea88e8a28f8f2bf&oe=5E3744F8"
@@ -152,14 +167,6 @@ width="100"
 height="100"
 />
 
----------
-
-
------------
-
-### Sangeerth S Nambiar- S1 CS
-
-----------
 
 - EOF
 
