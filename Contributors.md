@@ -7,16 +7,16 @@
 
 — — — — 
 ### SHAHBAS P P-S5 CSE
-<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP”
+<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
 width = "100"
 height = "100"
 />
-
 -----------
-## Amanyujith Raj - S1 CSE
-
-
-
+### Abhinav siros- S1 CSE
+<Img src= "https://www.instagram.com/p/BrPvwWTgfuz/?igshid=15xp4gctiqca2"
+width = "80"
+height = "100"
+/>
 
 ---------
 
