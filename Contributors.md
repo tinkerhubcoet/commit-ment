@@ -10,7 +10,7 @@
 
 — — — — -
 ### SHAHBAS P P - S5 CSE
-<Img src ="https://avatars1.githubusercontent.com/SHAHBASPP" width = “100” height = “100”/>
+<Img src="https://avatars1.githubusercontent.com/SHAHBASPP" width = “100” height = “100”/>
 ----------
 
 
