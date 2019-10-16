@@ -4,6 +4,11 @@
 #### scan this qr-code to see the video tutorial
 
 - start [paste your code below this line]
+- - - - -
+### Goutham Pankan Sudhir - S3CSE
+<Img src= "https://avatars0.githubusercontent.com/u/44921972?s=400&v=4" width = "100" height = "100"/>
+
+
 --------
 ### Abhijith C - S1 CS
 <Img src= "https://m.facebook.com/photo.php?fbid=2204278819889295&id=100009215942937&set=a.1377899489193903&source=11" 
