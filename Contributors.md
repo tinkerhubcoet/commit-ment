@@ -182,10 +182,7 @@ height="100"
 -----------
 
 ### Sangeerth S Nambiar- S1 CS
-<Img src= "https://m.facebook.com/photo/view_full_size/?fbid=1499288336873577&ref_component=mbasic_photo_permalink&ref_page=%2Fwap%2Fphoto.php&refid=13&__tn__=%2Cg"
-width = "100"
-height = "100"
-/>
+
 ----------
 
 - EOF
