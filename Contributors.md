@@ -4,10 +4,19 @@
 #### scan this qr-code to see the video tutorial
 
 - start [paste your code below this line]
+
 — — — — 
 ### SHAHBAS P P-S5 CSE
 <Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
 
+-----------
+
+
+### Fathimath Amrena- S1 IT
+<Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s480x480/72964312_511213609667101_3763670306657402880_n.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQnO_SpzBubXHZeBIGJcj8IAM3cXad-KtmXmO0vc92nBaI8hGBXiyFe7cjdcUg1o1m9rAvXFU5o8OAcBWglY6Mtj&_nc_ht=scontent.fcok3-1.fna&oh=da8a71061a91beabc30a94b0f8c412ab&oe=5E62F4B1"
+width = "80"
+height = "100"
+/>
 
 ### Amanyujith Raj- S1 CSE
 
@@ -19,7 +28,11 @@
 
 ---------
 
-
+### Nikhil R Nambiar- S1 IT
+<Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/72139612_2332973803685690_1476538537217097728_o.jpg?_nc_cat=103&efg=eyJpIjoidCJ9&_nc_oc=AQk7abYRLXkTvzAhtRzcwelLsNrRpmxggZ9vic81vtqcwcemiKG8_uW6wrKrpn8W8MQ2BI6w14pHpRKjqDGqhgLf&_nc_ht=scontent.fccj2-1.fna&oh=ceb9014ea5f51b2270783c081bdd2770&oe=5E60CF1C"
+width = "100"
+height = "100"
+/>
 
 
 
