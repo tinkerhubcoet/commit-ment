@@ -11,7 +11,7 @@ height = "100"
 />
 
 — — — — -
-### Muhammad Fasal M B T - S7 IT
+### Muhammad Fasal M B T - S7IT
 <Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/70387250_2385214795068184_5248122458556334080_n.jpg?_nc_cat=107&efg=eyJpIjoiYiJ9&_nc_oc=AQmRRgz_L13rFnt9u93BWhWMpuOPF_BpZwnt6ZuRS8TrcB1mvHjraIN8RhZGjuBWLcfZOQNe8uib1av_36IH_53r&_nc_ht=scontent.fcok1-1.fna&oh=84b2dc5e5c88c2a19073a35f48a68b67&oe=5E200104"
 width = "100"
 height = "100"
