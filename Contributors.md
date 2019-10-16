@@ -11,7 +11,7 @@
 
 --------
 ### Abhijith C - S1 CS
-<Img src= "https://m.facebook.com/photo.php?fbid=2204278819889295&id=100009215942937&set=a.1377899489193903&source=11" 
+<Img src= "https://mbasic.facebook.com/photo.php?fbid=2204278819889295&id=100009215942937&set=a.1377899489193903&source=11" 
 width = "100"
 height = "100"
 />
@@ -19,7 +19,17 @@ height = "100"
 
 — — — — 
 ### SHAHBAS P P-S5 CSE
-<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
+<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP”
+width = "100"
+height = "100"
+/>
+— — — — 
+### Amanyujith Raj -S1 CSE
+<Img src= “https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66”
+width = "100"
+height = "100"
+/>
+
 
 — — — — 
 ### Amanyujith Raj -S1 CSE
@@ -27,7 +37,6 @@ height = "100"
 width = "80"
 height = "100"
 />
-
 -----------
 ### Abhinav sirosh- S1 CSE
 <Img src= "https://www.instagram.com/p/BrPvwWTgfuz/?igshid=15xp4gctiqca2"
