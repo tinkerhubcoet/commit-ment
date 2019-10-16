@@ -3,6 +3,8 @@
 # Amazing Contributors  - Commit-ment [https://medium.com/tinkerhubcoet/] <img src = "./youtube tutorial.png" align = "right"/>
 #### scan this qr-code to see the video tutorial
 
+###  KINDLY FEATURE YOURSELF BY PR "ONLY ONCE". No duplicate featurings shall be appreciated.
+
 - start [paste your code below this line]
 - - - - -
 ### Goutham Pankan Sudhir - S3CSE
@@ -14,8 +16,13 @@
 
 -----
 ### SHAHBAS P P-S5 CSE
+<Img src= “https://avatars1.githubusercontent.com/SHAHBASPP” width = “100” height = “100”/>
 
-------
+— — — — 
+### Amanyujith Raj -S1 CSE
+<Img src= “https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66” width = “100” height = “100”/>
+
+-----------
 
 ### Amanyujith Raj -S1 CSE
 <Img src= "https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66"
@@ -38,29 +45,13 @@ width = "80"
 height = "100"
 />
 
-
-
-------
-
-
-
-
----------
+------------
 
 ### Nikhil R Nambiar- S1 IT
 <Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/72139612_2332973803685690_1476538537217097728_o.jpg?_nc_cat=103&efg=eyJpIjoidCJ9&_nc_oc=AQk7abYRLXkTvzAhtRzcwelLsNrRpmxggZ9vic81vtqcwcemiKG8_uW6wrKrpn8W8MQ2BI6w14pHpRKjqDGqhgLf&_nc_ht=scontent.fccj2-1.fna&oh=ceb9014ea5f51b2270783c081bdd2770&oe=5E60CF1C"
 width = "100"
 height = "100"
 />
-
-
-
-
-
-
-
-
-
 
 -----------
 
@@ -176,12 +167,6 @@ width="100"
 height="100"
 />
 
----------
-
-
-
-
-----------
 
 - EOF
 
