@@ -60,12 +60,7 @@ height = "100"
 />
 ---------
 
-### Shidin A- S7 IT
-<Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/69664181_2262909940497805_8129919826249383936_o.jpg?_nc_cat=110&efg=eyJpIjoiYiJ9&_nc_oc=AQnQgQk2XzYcP4mT-YyeFR9heru0KqIpv65E7rjgyR_SGlQlLmFT5rZhah68HBeCMmk&_nc_ht=scontent.fccj2-1.fna&tp=1&oh=dfe8d44161e25f6c2173b9140a31b445&oe=5E1994F3"
-width = "100"
-height = "100"
-/>
----------
+
  
 ### Shidin A- S7  IT
 <Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/68705811_2239489832839816_3341663957071953920_o.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQnuBQH8qL8MT6g9PNZItNO7ru9IV9fqWBybbLifTgcE5gAX1N5DCE-zNoG_rN7hAO0&_nc_ht=scontent.fccj2-1.fna&tp=1&oh=14cd8ff3b45ba0d18daee607646f8325&oe=5E1C72E6"
