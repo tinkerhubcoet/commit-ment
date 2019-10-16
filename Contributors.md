@@ -18,8 +18,8 @@ height = "100"
 
 — — — — 
 ### Amanyujith Raj -S1 CSE
-<Img src= “https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66” width = “100” height = “100”/>
-width = "100"
+<Img src= "https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/56197750_2264469663813648_8459317880545083392_n.jpg?_nc_cat=111&efg=eyJpIjoidCJ9&_nc_oc=AQkSGusUWnJ_gfYreVgNapPnPZEQUHt1yCRRRFGcl0zZ1gW8JPzwTmx5YH7XWKC_GlA&_nc_ht=scontent-maa2-1.xx&tp=1&oh=b3a5adb883d742cdbc4ff5ec7ae43256&oe=5E5F6F66"
+width = "80"
 height = "100"
 />
 
