@@ -30,12 +30,14 @@ height = "100"
 
 ------
 
-
+### KARTHIK KRISHNAN K K - S1 IT
+<Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/29790042_223049821579300_2957545032504479577_n.jpg?_nc_cat=110&efg=eyJpIjoidCJ9&_nc_oc=AQn1VrD1k2IY4D_4IGYz7M572rhmEIX-5AJl6rRRFndaPxnLQ4pQKRxDCUFv8O37sO16jRTkN_dV9Kl1warGD1I1&_nc_ht=scontent.fccj2-1.fna&oh=732da3733248a7c025dc77f2dc23ffe4&oe=5E268307" width ="100" height ="100"
+/>
 
 
 ---------
 
-### Nikhil R Nambiar- S1 IT
+### Nikhil R Nambiar- S1 I
 <Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/72139612_2332973803685690_1476538537217097728_o.jpg?_nc_cat=103&efg=eyJpIjoidCJ9&_nc_oc=AQk7abYRLXkTvzAhtRzcwelLsNrRpmxggZ9vic81vtqcwcemiKG8_uW6wrKrpn8W8MQ2BI6w14pHpRKjqDGqhgLf&_nc_ht=scontent.fccj2-1.fna&oh=ceb9014ea5f51b2270783c081bdd2770&oe=5E60CF1C"
 width = "100"
 height = "100"
