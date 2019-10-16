@@ -12,7 +12,7 @@
 
 
 -----------
-### Abhinav siros- S1 CSE
+### Abhinav sirosh- S1 CSE
 <Img src= "https://www.instagram.com/p/BrPvwWTgfuz/?igshid=15xp4gctiqca2"
 width = "80"
 height = "100"
