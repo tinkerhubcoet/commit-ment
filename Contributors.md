@@ -10,7 +10,23 @@
 -------
 ### Malavika S - S1-IT
 
---------
+------
+### Kenza - S1-IT
+------
+
+---------
+
+### Sanika - S1 IT
+
+
+-----
+### Nefla - S1 IT
+-------
+
+------
+### Zenha - S1-IT
+
+-------
 
 ### Rehan Raj- S1 IT
 <Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/72396883_1451444831676275_4124839346438144_n.jpg?_nc_cat=110&efg=eyJpIjoiYiJ9&_nc_oc=AQmpxsaHxUyBUY2tJQl_caOWRVLtQXEVIYefozBjzqPZnmJUStKxGpDLTqgSgh7H_ME&_nc_ht=scontent.fcok1-1.fna&oh=cdb8797dda2c637d632fd0c17764a967&oe=5E1F052A"
@@ -18,6 +34,7 @@ width = "100"
 height = "100"
 />
 ----------
+
 
 --------------
 
@@ -66,6 +83,11 @@ height="100"
 
 --------------
 
+
+### KARTHIK KRISHNAN K K - S1 IT
+<Img src= "https://scontent.fccj2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/29790042_223049821579300_2957545032504479577_n.jpg?_nc_cat=110&efg=eyJpIjoidCJ9&_nc_oc=AQn1VrD1k2IY4D_4IGYz7M572rhmEIX-5AJl6rRRFndaPxnLQ4pQKRxDCUFv8O37sO16jRTkN_dV9Kl1warGD1I1&_nc_ht=scontent.fccj2-1.fna&oh=732da3733248a7c025dc77f2dc23ffe4&oe=5E268307" width ="100" height ="100"
+/>
+
 ### Nived k V S1 CS
 <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/69298968_1216879491847764_9016638918547734528_o.jpg?_nc_cat=109&efg=eyJpIjoidCJ9&_nc_oc=AQnYrbX6smhWJPVNnWOQWyDj7TkaQleLpMSB7r_qArsPmx3DiTSMyO-Pb4aDNOO849E&_nc_ht=scontent.fcok1-1.fna&oh=113424944734f6b2f9897b4a325a84a3&oe=5E1D5A41"
 width="100"
@@ -73,6 +95,7 @@ height="100"
 />
 
 -------------
+
 
 ### MOHAMMED RAHIL USMAN - S5 CS
 -----
