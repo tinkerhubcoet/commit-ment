@@ -6,6 +6,12 @@
 ###  KINDLY FEATURE YOURSELF BY PR "ONLY ONCE". No duplicate featurings shall be appreciated.
 
 - start [paste your code below this line]
+
+----------------
+### Muhammed Abdul Azeez - S5 CS
+<img src= "https://avatars2.githubusercontent.com/u/44620952?s=460&v=4" width="100" height="100"/>
+----------------
+
 ------
 ### Anusree - S1-IT
 -------
