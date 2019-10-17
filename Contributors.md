@@ -10,8 +10,8 @@
 
 ### Neeraj Ram -S1 IT
 <Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/72611074_1451360631684695_224658396245131264_n.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQk0qkk3yyGdEIG03Aow4Is12XPLrh4CMRQfhJcXR8mk7-dMhpTiP1LP02E_Z0O3RbfkurhAisHx0HOqraGQrg60&_nc_ht=scontent.fcok1-1.fna&oh=3aa94cb6a22e0cb80abc386528083a29&oe=5E2AA88B"
-width = "200"
-height = "200"
+width = "50"
+height = "50"
 />
 --------------
 ### Jimin - S3 CS
