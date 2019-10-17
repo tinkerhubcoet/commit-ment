@@ -7,6 +7,12 @@
 
 - start [paste your code below this line]
 
+### Marjana Sathar S1 IT
+<img src="https://scontent.fblr3-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/52833041_101217701033943_2407543479686135808_n.jpg?_nc_cat=111&efg=eyJpIjoiYiJ9&_nc_oc=AQlj-me-POmpB8EdJiI0kdkRBjQKHNwaKZVrHz8bzbZDG0I2fmR2aMdlvAqkUj3U8dM&_nc_ht=scontent.fblr3-2.fna&oh=db6e0be4200ba4075ab8e9dc3de1e807&oe=5E601671"
+width="100"
+height="100"
+/>
+
 ----------------
 ### Muhammed Abdul Azeez - S5 CS
 <img src= "https://avatars2.githubusercontent.com/u/44620952?s=460&v=4" width="100" height="100"/>
