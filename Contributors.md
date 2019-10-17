@@ -7,9 +7,18 @@
 
 - start [paste your code below this line]
 
+
 ---------
 
 ### Sanika - S1 IT
+
+
+-----
+### Nefla - S1 IT
+-------
+
+------
+### Zenha - S1-IT
 
 -------
 
@@ -19,6 +28,7 @@ width = "100"
 height = "100"
 />
 ----------
+
 
 --------------
 
