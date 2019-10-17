@@ -8,6 +8,9 @@
 - start [paste your code below this line]
 
 --------------
+### Jimin - S3 CS
+<img src= "https://avatars2.githubusercontent.com/u/56666333?s=400&v=4" width="100" height="100"/>
+--------------
 
 ### Meghanath S1 IT
 <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/68889359_2351935485054147_1424988368340516864_n.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQl1ivDmZeizIs7_VbTxQawceiOa5kdGjeRYA2qvrXSaMYjXawrIsMcXMJ2xVj2gT9pAznz6SrPNVbvGBxZYjsNi&_nc_ht=scontent.fcok1-1.fna&oh=ab91be2e08ae47c226fef142aa70bf5e&oe=5E1ABD53"
