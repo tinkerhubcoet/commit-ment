@@ -6,6 +6,11 @@
 ###  KINDLY FEATURE YOURSELF BY PR "ONLY ONCE". No duplicate featurings shall be appreciated.
 
 - start [paste your code below this line]
+---------
+### ARYA- S1 IT
+<img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/270598_1388385568049345_14667915_n.jpg?_nc_cat=102&efg=eyJpIjoiYiJ9&_nc_oc=AQmJ5cS-9xpb2rLojdBnywZ96Te8p7Cxo2o-_2rJfNqxHOn8yrGIlloou8iv9OlXqEsSYR9N5HX-qAVWU7w_uPa0&_nc_ht=scontent.fcok1-1.fna&oh=bee3980c4c1a5e0fd40fd3a878818ea0&oe=5E6406D5" width="100" height="100"/>
+-----------
+
 
 ### Marjana Sathar S1 IT
 <img src="https://scontent.fblr3-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/52833041_101217701033943_2407543479686135808_n.jpg?_nc_cat=111&efg=eyJpIjoiYiJ9&_nc_oc=AQlj-me-POmpB8EdJiI0kdkRBjQKHNwaKZVrHz8bzbZDG0I2fmR2aMdlvAqkUj3U8dM&_nc_ht=scontent.fblr3-2.fna&oh=db6e0be4200ba4075ab8e9dc3de1e807&oe=5E601671"
@@ -14,6 +19,7 @@ height="100"
 />
 
 ----------------
+
 ### Muhammed Abdul Azeez - S5 CS
 <img src= "https://avatars2.githubusercontent.com/u/44620952?s=460&v=4" width="100" height="100"/>
 -----------
