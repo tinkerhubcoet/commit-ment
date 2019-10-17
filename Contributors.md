@@ -23,33 +23,6 @@ width = "100"
 height = "100"
 />
 
-----
-### Swathi - S1 IT
------
-
------
-### Aparna - S1 IT
-------
-
--------
-### Malavika S - S1-IT
-
-------
-### Kenza - S1-IT
-------
-
----------
-
-### Sanika - S1 IT
-
-
------
-### Nefla - S1 IT
--------
-
-------
-### Zenha - S1-IT
-
 -------
 
 ### Rehan Raj- S1 IT
@@ -261,6 +234,32 @@ height="100"
 
 -------------
 
+----
+### Swathi - S1 IT
+-----
+
+-----
+### Aparna - S1 IT
+------
+
+-------
+### Malavika S - S1-IT
+
+------
+### Kenza - S1-IT
+------
+
+---------
+
+### Sanika - S1 IT
+
+
+-----
+### Nefla - S1 IT
+-------
+
+------
+### Zenha - S1-IT
 
 - EOF
 
