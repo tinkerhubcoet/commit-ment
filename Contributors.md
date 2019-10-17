@@ -6,12 +6,20 @@
 ###  KINDLY FEATURE YOURSELF BY PR "ONLY ONCE". No duplicate featurings shall be appreciated.
 
 - start [paste your code below this line]
+
+### Rehan Raj- S1 IT
+<Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/72396883_1451444831676275_4124839346438144_n.jpg?_nc_cat=110&efg=eyJpIjoiYiJ9&_nc_oc=AQmpxsaHxUyBUY2tJQl_caOWRVLtQXEVIYefozBjzqPZnmJUStKxGpDLTqgSgh7H_ME&_nc_ht=scontent.fcok1-1.fna&oh=cdb8797dda2c637d632fd0c17764a967&oe=5E1F052A"
+width = "100"
+height = "100"
+/>
+----------
+
 --------------
 
 ### Neeraj Ram -S1 IT
 <Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/72611074_1451360631684695_224658396245131264_n.jpg?_nc_cat=109&efg=eyJpIjoiYiJ9&_nc_oc=AQk0qkk3yyGdEIG03Aow4Is12XPLrh4CMRQfhJcXR8mk7-dMhpTiP1LP02E_Z0O3RbfkurhAisHx0HOqraGQrg60&_nc_ht=scontent.fcok1-1.fna&oh=3aa94cb6a22e0cb80abc386528083a29&oe=5E2AA88B"
-width = "50"
-height = "50"
+width = "100"
+height = "100"
 />
 --------------
 ### Jimin - S3 CS
@@ -95,6 +103,7 @@ height = "100"
 />
 
 --------------
+
 
 ### Thejus K- S1 IT
 <Img src= "https://scontent.fcok3-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/67946526_460708921429170_5330964208668377088_o.jpg?_nc_cat=104&efg=eyJpIjoidCJ9&_nc_oc=AQnJHHI7oiaYqCu-sGse5FEpVTUn1pFAES6fUm9ifDfNMWIVYRPZ9YwG8m9mBkHnNxU&_nc_ht=scontent.fcok3-1.fna&oh=44589ce73227084f58663012ba1477bb&oe=5E61FF77"
