@@ -10,12 +10,6 @@
 ----------------
 ### Muhammed Abdul Azeez - S5 CS
 <img src= "https://avatars2.githubusercontent.com/u/44620952?s=460&v=4" width="100" height="100"/>
-----------------
-
-------
-### Anusree - S1-IT
--------
-
 -----------
 ### ASHWIN C - S3 CS
 <Img src= "https://www.instagram.com/p/BwRFRYelrNvseCiQ2Ly0V1GTMVuplMyoSiArGQ0/?igshid=15bet2gg80x7t" 
@@ -233,6 +227,9 @@ height="100"
 <img src= "https://avatars2.githubusercontent.com/u/41202556?s=400&u=d136c5e8d89272af10f8828f5100354f02e5b1ca&v=4" width="100" height="100"/>
 
 -------------
+------
+### Anusree - S1-IT
+-------
 
 ----
 ### Swathi - S1 IT
