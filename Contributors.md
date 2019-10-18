@@ -7,6 +7,11 @@
 
 - start [paste your code below this line]
 -----------
+### Vijay Vinod - S1 CS
+<img src="https://avatars0.githubusercontent.com/u/56424471?s=400&u=f2e600aa799d53b85b441f63b01f9e65630c7b67&v=4" width="100" height="100"
+/>
+
+------------
 ### Sourav Jose - S1 CSE
 <Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/68997715_1091273804405394_5486373154982985728_o.jpg?_nc_cat=111&efg=eyJpIjoiYiJ9&_nc_oc=AQn-1d1DFSRLWpZE3rYhhF2wnk7cHWA-MISCHP7GwdMF3jYWA9TYX9xkBUnYlJ7JTFDgeq4iGgxRuNefK9SLo2Me&_nc_ht=scontent.fcok1-1.fna&oh=4fe68a0aa93d19c5b22b796122d70250&oe=5E5DEDCF"
 width = "100"
