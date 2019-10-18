@@ -8,6 +8,9 @@
 - start [paste your code below this line]
 
 -----------
+### Navya P K - S1 CS
+<img src= "https://avatars1.githubusercontent.com/u/56425287?s=400&u=a0ed8f3fb4f32afa093c4157f82217261f15e4d9&v=4" width="100" height="100"/>
+--------------
 ### Nived Hari - S1 CSE
 <Img src= "https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/70508022_2455632958053413_4727620268216811520_o.jpg?_nc_cat=104&efg=eyJpIjoiYiJ9&_nc_oc=AQndaYzbH0e2QOQ8Lgnco0prF8Fzl9XXAMjdXNM0n1BtjrGCN1cNxO8L3k-rgmy7zp68rHV54hOntPhv_spFUzyb&_nc_ht=scontent.fcok1-1.fna&oh=409d98eaff11c5098724f4fb75c50bd0&oe=5E26EF1E"
 width = "100"
